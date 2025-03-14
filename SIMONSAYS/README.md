@@ -10,7 +10,7 @@ The Simon Says Game is an interactive memory and pattern recognition game that c
 
 # How to Run:
 
-1. Clone the repository: git clone https://github.com/Rohankumars0001/Projects.git
+1. Clone the repository: git clone https://github.com/Rohankumars0001/Projects/tree/main/SIMONSAYS
 2. Navigate to the SIMONSAYS directory.
 3. Open index.html in your browser to start playing!
 
